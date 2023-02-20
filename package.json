@@ -1,0 +1,21 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theUIGirl/learning-react.git"
+  },
+  "author": "Sakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theUIGirl/learning-react/issues"
+  },
+  "homepage": "https://github.com/theUIGirl/learning-react#readme"
+}

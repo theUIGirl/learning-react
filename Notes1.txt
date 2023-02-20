@@ -1,0 +1,4 @@
+#What all does Parcel do?
+#What is transitive dependencies?
+#Babel
+#Advantages of JSX

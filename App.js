@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from'react-dom/client';
+
 const heading = React.createElement(
     "h1",
     { id: "title" },
@@ -10,7 +13,7 @@ const heading = React.createElement(
   );
   const container = React.createElement(
     "div",
-    { id: "container" },
+    { id: "container", style: { background: "beige" } },
     [heading, heading2]
   );
 
