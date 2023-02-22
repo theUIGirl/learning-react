@@ -2,3 +2,17 @@
 #What is transitive dependencies?
 #Babel
 #Advantages of JSX
+
+#JSX can only have one parent
+# use React.Fragment to bind multiple tags.
+#React.Fragment is like an empty tag, so another syntax for it is <></>
+
+#Inline styling in JSX
+    eg: const styleObj={background:red, color:white}
+    const jsx=(
+        <div style={styleObj}>
+        <h2 style={{font-size:14px}}></h2>
+        </div>
+    );
+
+#Optional Chaining
